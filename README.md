@@ -1,1 +1,1 @@
-# algo_trading-python
+### Algorithmic trading and quantitative analysis using python
